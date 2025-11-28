@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Prod.project
 {
-    internal class Program
+    internal class Nadya
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
